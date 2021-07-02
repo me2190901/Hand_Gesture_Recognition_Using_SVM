@@ -1,4 +1,4 @@
-# Hand_Gesture_Recognition
+# Hand_Gesture_Recognition_Using_SVM
 
 This project is made by me under the guidance of Professor Souvik Chakraborty, IIT Delhi.
 In this project, we made a classifier based on <b>SVM(Support Vector Machine></b> to differentiate between different hand gestures.
