@@ -35,7 +35,8 @@ This model is taking input from the webcam of your computer and then at each tim
 
 To run the model you have to run "Final.py" file.<br><br>
 But before running make sure you have downloaded all the files that is included in this folder-<br>
-"datamaker.py", "dataset.zip", "hog_svm2.pkl", "train_svm.py", "Final.py", "test_svm.py","dataset.zip".
+"datamaker.py", "hog_svm2.pkl", "train_svm.py", "Final.py", "test_svm.py" and have "dataset" folder extracted after downloading it from the link
+https://drive.google.com/file/d/1QLXofFtWsEp-xlpktZvsk51mlG2ilbDE/view?usp=sharing.
 <br><br>
 Also make sure that you have installed all the libraries required to run the code some of the libraries are listed below:-<br>
 OpenCv
@@ -43,7 +44,7 @@ OpenCv
 ,sklearn
 ,joblib
 <br><br>
-For using our formed dataset extract "dataset.zip".<br><br>
+For using our formed dataset extract "dataset.zip"(you can find dataset.zip folder on this link:- https://drive.google.com/file/d/1QLXofFtWsEp-xlpktZvsk51mlG2ilbDE/view?usp=sharing).<br><br>
 For making your own dataset:-<br>
 Run 'datamaker.py' and enter label for data you want to create database. Then show corresponding gesture in rectangle area 
 <br><br>
