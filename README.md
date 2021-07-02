@@ -57,7 +57,7 @@ Run "test_svm.py"
 For running real time gesture classifier:-<br>
 Run "Final.py"
 <br><br>
-Final Report, presentation video, presentation slides are included in report folder.
+Final Report, presentation video, presentation slides are included in "report" folder.
 
 <h2>Thank You</h2>
 
